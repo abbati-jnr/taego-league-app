@@ -1,10 +1,10 @@
-# taego_league_app
+# Taego League App
 
-A new Flutter project.
+League management App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter framework.
 
 A few resources to get you started if this is your first Flutter project:
 
